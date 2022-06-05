@@ -1,0 +1,17 @@
+fieldset {
+  display: inline-block;
+  box-shadow: 2px 2px 2px gray;
+  border-radius: 7px;
+  padding: 2em;
+  margin-left: 7em;
+}
+
+h3 {
+  border-top: 2px solid red;
+  text-decoration: solid;
+}
+
+nav {
+  display: flex;
+  background: black;
+}
